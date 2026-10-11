@@ -1,0 +1,6 @@
+{
+  "name": "AutoVision Garage – AI Car Scanner & Garage Manager",
+  "description": "AI-powered vehicle identification, car scanning and garage management app for Indian vehicle owners with ₹ INR expense tracking, service bookings, and smart reminders.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
